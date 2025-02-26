@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "proxy": "http://localhost:5500",
+  "proxy": "https://reactcarbuy-backend.onrender.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
